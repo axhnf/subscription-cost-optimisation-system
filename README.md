@@ -19,16 +19,6 @@ A command-line Python application for managing software subscriptions. It keeps 
 | Unused licences | Licences bought − licences in use |
 | Wasted cost | Unused licences × cost per licence |
 
-## Getting started
-
-You need [Python 3.6 or later](https://www.python.org/downloads/). There are no other packages to install. From the project folder, run:
-
-```bash
-python subscription_system.py
-```
-
-On Mac or Linux, you may need to use `python3` instead. Your data is saved in `subscriptions.txt`, which is created the first time you run the program.
-
 ## Example
 
 ```text
@@ -65,7 +55,3 @@ Total Wasted Spend  : £75.00
 - **Data structures:** subscription records stored in a 2D list
 - **File handling:** loading and saving records in CSV format
 - **Input validation and exception handling:** repeated prompts until valid data is entered
-
-## Author
-
-**Sheikh Ahnaf Ferdous** · [LinkedIn](https://www.linkedin.com/in/sheikh-ahnaf-ferdous-7b3874280/) · [GitHub](https://github.com/axhnf)
