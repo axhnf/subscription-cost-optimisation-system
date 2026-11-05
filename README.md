@@ -2,6 +2,8 @@
 
 A command-line Python application for managing software subscriptions. It keeps track of what an organisation pays for, shows how many licences are actually being used, and calculates how much money is being wasted on unused licences.
 
+Built for my first-year Semester 1 project portfolio on the BSc Software Engineering course at the University of Huddersfield.
+
 ## Features
 
 - View, add, update, and delete subscriptions
